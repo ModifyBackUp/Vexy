@@ -38,6 +38,6 @@
 
 "ButtonCancell": "Cancell",
 
-"Show": "off"
+"Show": "on"
 
 }
